@@ -30,11 +30,8 @@ El flujo se divide en 4 módulos de ingesta y un enrutador (Router) con 4 camino
 
 ## 📄 Documentación Adjunta
 
-En este repositorio se incluyen los manuales operativos que detallan la ingeniería detrás del proyecto:
-* `Arquitectura_Sistema_Make.pdf`: Diagrama visual de nodos, triggers y rutas lógicas.
-* `Manual_Operativo_Datos.pdf`: Esquema relacional de Airtable y diccionarios JSON.
-* `Matriz_Comparativa_Costos_IA.pdf`: Justificación financiera y cálculo de ahorro del ecosistema.
-* `Documentacion_Seguridad_Resiliencia.pdf`: Protocolos HITL, protección de PII y manejo de directivas de error.
+En este repositorio se incluye la carpeta con todo los manuales operativos que detallan la ingeniería detrás del proyecto, Imagen del esquema en Make y Video explicando el funcionamiento del mismo:
+* [https://drive.google.com/drive/folders/1X4RRCUo2ktAM7z8VAGKj8pmnVW0NTa87?usp=drive_link](https://drive.google.com/drive/folders/1X4RRCUo2ktAM7z8VAGKj8pmnVW0NTa87?usp=sharing)
 
 ---
 **Autor:** Gonzalo Nicolas Severini
