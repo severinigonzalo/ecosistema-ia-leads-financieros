@@ -30,8 +30,12 @@ El flujo se divide en 4 módulos de ingesta y un enrutador (Router) con 4 camino
 
 ## 📄 Documentación Adjunta
 
-En este repositorio se incluye la carpeta con todo los manuales operativos que detallan la ingeniería detrás del proyecto, Imagen del esquema en Make y Video explicando el funcionamiento del mismo:
+En este repositorio se incluye la carpeta con todo los manuales operativos que detallan la ingeniería detrás del proyecto, Imagen del esquema en Make y Video explicando el funcionamiento del mismo como asi tambien el link al escenario creado en Make y las Bases de datos creadas en Airtable:
 * [https://drive.google.com/drive/folders/1X4RRCUo2ktAM7z8VAGKj8pmnVW0NTa87?usp=drive_link](https://drive.google.com/drive/folders/1X4RRCUo2ktAM7z8VAGKj8pmnVW0NTa87?usp=sharing)
+* https://us2.make.com/public/shared-scenario/tEWiGokMxBH/entrega-final
+* https://airtable.com/invite/l?inviteId=inv0CmOQqIJZvcowH&inviteToken=9a5842ee439f037f73f1c51266fc6df92a8248878b8ea93bc8a4e94abefa8103&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
+
+
 
 ---
 **Autor:** Gonzalo Nicolas Severini
