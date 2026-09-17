@@ -35,6 +35,9 @@ En este repositorio se incluye la carpeta con todo los manuales operativos que d
 * https://us2.make.com/public/shared-scenario/tEWiGokMxBH/entrega-final
 * https://airtable.com/invite/l?inviteId=inv0CmOQqIJZvcowH&inviteToken=9a5842ee439f037f73f1c51266fc6df92a8248878b8ea93bc8a4e94abefa8103&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
 
+Dashboard de Control
+* https://airtable.com/appdbl5mR6F8B8Wno/pagMcKBD7Lb0T2ybH
+
 
 
 ---
